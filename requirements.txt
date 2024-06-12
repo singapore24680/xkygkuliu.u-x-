@@ -1,0 +1,7 @@
+telethon
+configparser
+gunicorn==20.1.0
+aiohttp==3.9.5
+werkzeug==2.0.2
+Flask
+itsdangerous==2.0.1
