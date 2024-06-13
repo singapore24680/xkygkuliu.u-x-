@@ -15,7 +15,7 @@ session_string = '1BVtsOKYBu47VWS2oT_YjB_RnVdXlN5W1HTxXUw4vrQCzN2EBj0WKR3yDRrfFx
 
 # Replace with channel and bot usernames
 channel_username = '@loot_deals_offer'
-bot_username = '@ekconverter5bot'
+bot_username = '@extrapebot'
 
 # Delay between message forwards (adjust as needed)
 forward_delay = 5  # Seconds
