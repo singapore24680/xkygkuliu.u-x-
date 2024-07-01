@@ -14,7 +14,7 @@ api_hash = 'a5743330c99fe35b67c19f02a3cdc0fd'
 session_string = '1BVtsOKYBu47VWS2oT_YjB_RnVdXlN5W1HTxXUw4vrQCzN2EBj0WKR3yDRrfFxANYWNCzNIG_GwQW72c_qnk4X4WCKnjpY_SRkLbfwyVsonCz5cxQAQ3b7I-qrTJabAtrGaDHXvJWijpYM8Gyef6usLcREUmQkeC2LRl-k4Kr7gKZ4lpP4Qxw5G-x7l7rDCdFU2MZOnzpvCLlVBX9ugT09l62IWgsB8_Ea336cWV5UvF3Q9l3edm8cKWO2eTBBq06oJB0BFvUC-vxwIPjYK125VQQXrGKjkcVhlNgB2DnV9M7_Qbfj7MmoltYu-52CKbsSMWqKpYHsxJzMCsQ6Hkf7KlMSRuGrQg='
 
 # Replace with channel and bot usernames
-channel_username = '@offerhub_loot_Deals'
+channel_username = '@loot_deals_offer'
 bot_username = '@ekconverter5bot'
 
 # Delay between message forwards (adjust as needed)
